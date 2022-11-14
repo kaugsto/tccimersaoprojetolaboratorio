@@ -1,0 +1,25 @@
+.logo{
+    width:50%;
+
+}
+.menu{
+    display: flex;
+    text-align: right;
+    width: 40%;
+    margin: 10 px;
+    padding: 10p
+}
+.corpo1{
+    display: flex;
+    text-align: right;
+    padding: 20px;
+    }
+.corpo2{
+    display: flex;
+    text-align: right;
+    padding: 20px;
+    }
+.imagem02{
+    width: 30%;
+    height: 15px;
+}
